@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799237315254",
+    "project_id": "messageapp-209db",
+    "storage_bucket": "messageapp-209db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799237315254:android:a0dee05da8b7bef8e36417",
+        "android_client_info": {
+          "package_name": "com.BahaShama.MessageApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799237315254-8iujfa287o78nmhbph2lqc3khcg7gahr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.BahaShama.MessageApp",
+            "certificate_hash": "99799d7b376bf0b4bd8d7b64e53dddaa08a8c898"
+          }
+        },
+        {
+          "client_id": "799237315254-s4afsjep4hcscqoibnih4fivn1d6h8d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeob8EEbjPbjFk42ntFd3_7g_q0Gn0g8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799237315254-s4afsjep4hcscqoibnih4fivn1d6h8d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
